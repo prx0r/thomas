@@ -1,5 +1,15 @@
 # thomas — working method
 
+## Layout — four folders, nothing else at top level
+
+- `rambles/` — the raw material. Owner's thought stream, typos and all.
+- `essays/<topic>/` — one folder per ramble title (`samsara`, `nibbana`,
+  `rebirth`). Holds every version plus review, resources and process notes.
+- `audio/<topic>/` — same topics. Holds the two renders when they exist:
+  `<topic>1.mp3` (the ramble) + `ESSAY.mp3` (the chosen final essay).
+- `other/` — everything else: `resources/`, `scripts/`, `skills/`,
+  `oldessays/`. Tooling and archive, never the piece itself.
+
 Every piece in this repo moves through the same three stages, in order.
 Do not skip a stage.
 
@@ -28,14 +38,18 @@ Do not skip a stage.
      carried over. Live scholarly seams (where sources disagree) stay visible,
      never smoothed over.
 
-3. **Video** (`videos/<topic>/` when a piece gets there).
+3. **Video / audio** (`audio/<topic>/` when a piece gets there).
    Script + storyboard + reads, compiled only from the essay stage, never
    straight from the ramble. Every read-aloud quote traces back to
    `RESOURCES.md`. Owner's original analogies and lines stay in owner's voice.
+   `ESSAY.md` is the chosen final by definition — it alone renders as
+   `audio/<topic>/ESSAY.mp3`, alongside the ramble as
+   `audio/<topic>/<topic>1.mp3`.
 
 ## Repo rules
 
-- One topic per folder under `essays/` and `videos/` (e.g. `samsara`, `nibbana`).
+- One topic per folder under `essays/` and `audio/` (e.g. `samsara`, `nibbana`).
+  Folder names match the ramble titles: `rambles/samsara1.md` → `essays/samsara/` → `audio/samsara/`.
 - Rambles are append-only history. Essays are living documents.
 - Quotes: verbatim with source. Owner's own lines stay owner's — never dress
   them as textual, never dress textual claims as owner's.
@@ -50,7 +64,7 @@ yeah i think also worth nothing like guidelines for all of iit and what each pro
 
 ## Referencing — enforced
 
-- `resources/` is the shared library (see `resources/README.md`). Essay
+- `other/resources/` is the shared library (see `other/resources/README.md`). Essay
   `RESOURCES.md` files draw from these shelves; nothing is cited in an essay
   that is not first shelved with provenance.
 - Every essay ends with a references section listing each shelf item it
@@ -145,7 +159,7 @@ yeah i think also worth nothing like guidelines for all of iit and what each pro
   only job is to break it — unsupported entailments, conflated levels,
   translation dependence, passages that resist, rival readings. Repair only
   what survives. Record the kills in PROCESS.
-- The destroy pass follows `skills/essay-sharpening/SKILL.md` (adapted from
+- The destroy pass follows `other/skills/essay-sharpening/SKILL.md` (adapted from
   the gochema pushing work — Logicvid sessions, PUSHING_GUIDE, agent spec —
   without the formal apparatus). Sharpen metaphors to their logical ends;
   grade claims proven/supported/plausible/asserted in PROCESS, never in prose.

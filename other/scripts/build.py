@@ -4,13 +4,13 @@ Adds only: // headers, <|speaker:0|>, a stand-in voice tag, [pause, section chan
 at ## headings, [soft pause] between paragraphs, [pause] after rhetorical questions.
 Strips markdown structure and the ## References section. Never changes a word.
 
-    python3 scripts/build.py
+    python3 other/scripts/build.py      # run from repo root
 
 Voice tags are stand-ins, recast at voice lock (damn/voices/registry.md).
-Lanes from scripts/BEATS.md: rambles -> ramble read, essays -> lectures.
-Rules from scripts/FORMAT.md (verbatim from damn/docs/drama-syntax.md).
+Lanes from other/scripts/BEATS.md: rambles -> ramble read, essays -> lectures.
+Rules from other/scripts/FORMAT.md (verbatim from damn/docs/drama-syntax.md).
 
-After building: python3 /root/damn/fish/validate.py scripts/rambles/*.drama.txt scripts/essays/*/*.drama.txt
+After building: python3 /root/damn/fish/validate.py other/scripts/rambles/*.drama.txt other/scripts/essays/*/*.drama.txt
 
 Law: extract-never-write (damn/AGENTS.md) + never-generate-audio. No API calls.
 """
@@ -98,7 +98,6 @@ def build(src, dst, title, lane, voice, src_rel):
     n = len(parts)
     for i, part in enumerate(parts, 1):
         suffix = f".part{i}" if n > 1 else ""
-        out = os.path.join(dst, os.path.basename(dst and "") or "")
         path = os.path.join(dst, os.path.splitext(os.path.basename(src))[0] + suffix + ".drama.txt")
         hdr = [
             f"// THOMAS — {title}",
@@ -113,19 +112,19 @@ def build(src, dst, title, lane, voice, src_rel):
         text = "\n".join(hdr) + "\n\n<|speaker:0|>\n\n" + voice + "\n\n" + part + "\n"
         os.makedirs(dst, exist_ok=True)
         open(path, "w", encoding="utf-8").write(text)
-        print(f"  {os.path.relpath(path, '/root/thomas'):55s} {len(text.encode()):6d} B  {len(text.split()):5d} w")
+        print(f"  {os.path.relpath(path, T):55s} {len(text.encode()):6d} B  {len(text.split()):5d} w")
 
-T = "/root/thomas"
+T = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 jobs = [
- ("rambles/samsara1.md",  "scripts/rambles",      "samsara ramble 1",        "ramble read",  VO_RAMB),
- ("rambles/nibbana1.md",   "scripts/rambles",      "nibbana ramble 1",        "ramble read",  VO_RAMB),
- ("rambles/rebirth1.md",   "scripts/rambles",      "rebirth ramble 1",        "ramble read",  VO_RAMB),
- ("essays/samsara/samsaraessayai1.md",   "scripts/essays/samsara",  "samsara essay ai1", "lectures", VO_ESAY),
- ("essays/samsara/samsaraessayai2.md",   "scripts/essays/samsara",  "samsara essay ai2", "lectures", VO_ESAY),
- ("essays/nibbana/nibbanaessayai1.md",   "scripts/essays/nibbana",  "nibbana essay ai1",  "lectures", VO_ESAY),
- ("essays/nibbana/nibbanaessayai2.md",   "scripts/essays/nibbana",  "nibbana essay ai2",  "lectures", VO_ESAY),
- ("essays/rebirth/rebirthessayai1.md",   "scripts/essays/rebirth",  "rebirth essay ai1",  "lectures", VO_ESAY),
- ("essays/rebirth/rebirthessayai2.md",   "scripts/essays/rebirth",  "rebirth essay ai2",  "lectures", VO_ESAY),
+ ("rambles/samsara1.md",  "other/scripts/rambles",      "samsara ramble 1",        "ramble read",  VO_RAMB),
+ ("rambles/nibbana1.md",   "other/scripts/rambles",      "nibbana ramble 1",        "ramble read",  VO_RAMB),
+ ("rambles/rebirth1.md",   "other/scripts/rambles",      "rebirth ramble 1",        "ramble read",  VO_RAMB),
+ ("essays/samsara/samsaraessayai1.md",   "other/scripts/essays/samsara",  "samsara essay ai1", "lectures", VO_ESAY),
+ ("essays/samsara/samsaraessayai2.md",   "other/scripts/essays/samsara",  "samsara essay ai2", "lectures", VO_ESAY),
+ ("essays/nibbana/nibbanaessayai1.md",   "other/scripts/essays/nibbana",  "nibbana essay ai1",  "lectures", VO_ESAY),
+ ("essays/nibbana/nibbanaessayai2.md",   "other/scripts/essays/nibbana",  "nibbana essay ai2",  "lectures", VO_ESAY),
+ ("essays/rebirth/rebirthessayai1.md",   "other/scripts/essays/rebirth",  "rebirth essay ai1",  "lectures", VO_ESAY),
+ ("essays/rebirth/rebirthessayai2.md",   "other/scripts/essays/rebirth",  "rebirth essay ai2",  "lectures", VO_ESAY),
 ]
 print("building:")
 for rel, dst, title, lane, voice in jobs:

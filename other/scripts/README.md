@@ -1,9 +1,10 @@
-# scripts — the rambles and essays as Fish feed
+# scripts — the rambles and essays as Fish feed (lives in `other/`)
 
 The dramatic-text layer: the same texts you already wrote, in the format
 `fish/client.py` consumes — `//` headers, `[cues]` for pauses and voice,
 section breaks, at sleep pace. What gets fed to Fish. Nothing here is new
-prose.
+prose. Repo layout is `rambles/` + `essays/` + `audio/` at top level;
+this folder is tooling under `other/scripts/`.
 
 Source of the format is the Fish house, `/root/damn`:
 
@@ -141,12 +142,16 @@ narrator voice per project, never shared across projects.
 ## Rebuilding
 
 ```
-python3 scripts/build.py
+python3 other/scripts/build.py      # from repo root
 ```
 
 Deterministic: regenerates all nine from `rambles/*.md` and
-`essays/*/*.md`. Run it after any essay round, then re-validate:
+`essays/*/*.md` into `other/scripts/rambles/` + `other/scripts/essays/`.
+Run it after any essay round, then re-validate:
 
 ```
-python3 /root/damn/fish/validate.py scripts/rambles/*.drama.txt scripts/essays/*/*.drama.txt
+python3 /root/damn/fish/validate.py other/scripts/rambles/*.drama.txt other/scripts/essays/*/*.drama.txt
 ```
+
+Finished voice renders land in `audio/<topic>/` by hand — this folder
+never calls an API.
