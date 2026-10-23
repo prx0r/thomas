@@ -1,0 +1,40 @@
+// house: etymology | season 1 | vegetable full six section essay, sleep cut
+// engine: E5-talk, pace 105wpm | visual: black screen first, stills only after retention verdict
+// voice: lecturer single speaker V03 fork, Adrian stand-in bf322df2096a46f18c579d0baa36f41d, stand-in recast-at-lock, never shared outside this project at lock
+// SHIP model: s2.1-pro-free, zero cost, free-only law | speed 0.85, guided 0.8
+// sources: Etymonline plus Wiktionary plus Webster nineteen thirteen public domain plus sleepvids section drafts in sleepvids channels etymology videos 001 vegetable, facts not prose, citation lists over three summarised
+// why-first: sections already drafted, infinite words, black screen cheapest ship
+// SFX-after: spots chosen after voice lock only, max one per two minutes, minus twenty dB, lowpassed, no transients, no bed under lecturer in first pass
+// pins: headword vegetable, weg root plain phonetics wayg, scholar names Aristotle Linnaeus Jennett Plum Gagliano Mancuso, one section per call, fourteen k ceiling
+// SFX: none in first pass
+<|speaker:0|>
+
+[clear lecturer voice, precise and unhurried, half speed]
+
+Settle in, and let your eyes rest. Tonight we follow one ordinary word across five thousand years. The word is vegetable. Say it softly to yourself, and notice how dull it sounds, how flat, how sleepy. It means the boiled carrot, the side dish, the thing children push to the edge of the plate. How did a word for vigorous life become a word for that. Stay with me, and we will walk the whole road, slowly, in six short parts.
+
+[pause, section change]
+
+Section one, the word today. Open any kitchen drawer of language and vegetable sits there, plain and useful. It means a plant grown for food, the edible leaf or root, greens and carrots and peas. Doctors use its cousin too. When a patient lies awake yet absent, breathing but gone, the chart may read persistent vegetative state, a phrase coined in nineteen seventy two by the Scottish surgeon Bryan Jennett and the American neurologist Fred Plum. Alive, yet missing. [soft voice] Hold that strangeness gently, a word for life used to name its absence. We will come back to it at the end.
+
+[pause, section change]
+
+Section two, the etymology. The story starts in a language never written down, the ancestor tongue scholars call Proto Indo European, spoken on far grasslands thousands of years ago. In it lived a root sounding roughly like wayg, meaning to be strong, to be lively, to be active. From that root the old Italic peoples made a verb meaning to be alive and quicken. From that verb came an adjective meaning vigorous and sprightly. From that came a verb meaning to enliven, to fill with life, the exact reverse of what vegetate means today. From that came a late Latin word meaning animating, then growing and flourishing. Old French softened it to living, fit to live. English took it around fourteen hundred, first as an adjective for anything capable of growth, then as a noun for any plant at all. Trees were vegetables. Roses were vegetables. The old English word wyrt, kept now only in herb names, faded before it. [emphasis] One root, meaning strength, travelled all the way to broccoli. Its cousins kept their power. Vigour stayed vigorous. Wake stayed awake. Watch stayed alert. Witch kept its charge of hidden power. Only vegetable forgot.
+
+[pause, section change]
+
+Section three, the historical journey. For centuries the word stayed broad, so broad it could hold wonders. Medieval travellers told of the vegetable lamb of Tartary, a plant said to grow tiny lambs on stalks, wool and stem joined. The tale sounds absurd now, but it shows a world where the line between plant and animal ran soft, and vegetable still meant any living growth. Monks carried the word into gardens, growing herbs for healing and food for the table, calling their plots by its name. Then the great narrowing came. Botanists of the seventeen hundreds sorted all green life into ranks and shelves, and vegetable shrank from every plant to only the plants we eat. By seventeen sixty seven the dictionaries record it plainly, a plant cultivated for culinary purposes. New foods met suspicion along the way. The tomato, kin to nightshade, was feared for two hundred years as the poison apple, blamed for sickness that truly came from lead in pewter plates. And the word itself sank further. By eighteen fifty four a vegetable existence meant a dull one. By nineteen twenty one a vegetable could mean a person sunk in monotony. [slowly] From vigorous, to edible, to dull, step by step, century by century.
+
+// SFX: no spot yet, silence held for sleep
+
+[pause, section change]
+
+Section four, the philosophy. Behind the fall stands one towering thinker. Aristotle of Athens, tutor to kings, watcher of fish and squid on island shores, asked what makes a thing alive. His answer, written around three hundred fifty before Christ in his book On the Soul, gave every living thing a soul, meaning a set of powers. Plants held the lowest, the power to feed and grow and seed themselves. Animals held that plus feeling and movement. Humans held all of that plus reason. Each higher rank gathered the lower ones inside it. The scheme ruled western thought for two thousand years, carried by Roman teachers, kept alive by scholars of Baghdad, returned to Paris in Latin dress, crowned by thinkers like Thomas Aquinas. In it the plant rank sat always at the bottom, alive but barely, growing but not knowing. [soft voice] Two millennia of students learned to look down on green life, and the word learned it with them.
+
+[pause, section change]
+
+Section five, the science. Medicine borrowed the old rank for its hardest naming. The nineteen seventy two paper gave doctors vegetative for the body that breathes while awareness sleeps. Later reviews found the label hid much, with more than a third of such diagnoses mistaken on careful testing, and some patients answering inside when no outward sign showed. In one famous study a woman five months unresponsive lay in a brain scanner and was asked to picture playing tennis, then to picture walking through the rooms of her home. Her brain answered in the regions for movement and for mapping space, following words she could not speak aloud. She had been there all along. Meanwhile plant science was undoing Aristotle from below. A researcher named Monica Gagliano worked with the sensitive plant that folds its leaves at a touch. Dropped softly again and again, the plants first folded, then learned the fall was harmless and rested open, saving their strength. Left alone a month, they still remembered. Other laboratories found plants trading warnings through the air, favouring kin among seedlings, sharing food through fungal threads between roots, whole forests linked in quiet exchange. [emphasis] The lowest rank, it turns out, learns and remembers and speaks in chemistry.
+
+[pause, section change]
+
+Section six, the return. So here we are, back where we began, with the boiled carrot and the hospital chart. The word travelled from to be strong to enliven to growing to any plant to food plant to dull to absent, and every step felt natural at the time. Yet the science of our own century bends the road home. Green life proves alert and communicative, full of assessment and memory without any brain we recognise. The cousins kept the old fire, vigour and wake and watch, and now the strange one may recover its own. Tonight, as sleep comes, let vegetable mean what it first meant. [slowly] Alive, vigorous, quietly growing in the dark, and worthy of rest. Good night.

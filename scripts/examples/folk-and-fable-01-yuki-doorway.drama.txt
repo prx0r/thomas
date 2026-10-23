@@ -1,0 +1,10 @@
+// FOLK & FABLE S2 — Yuki-Onna doorway (2min ≈ 210 words sleep pace)
+// SHIP: model s2.1-pro-free ($0, free-only law) (~2000 chars, $0)
+// narrator <|speaker:0|> Adrian bf322df2096a46f18c579d0baa36f41d (stand-in, recast at lock)
+// yuki <|speaker:1|> Sheila f3a2b90078d54a65af4b95f63bc7798e (stand-in) | speed 0.85, latency normal
+// SFX (after voice lock): old-wood door creak low -20dB; breath-air under whisper; wind-thinning at melt
+
+<|speaker:0|>[calm, measured storyteller voice, slow and gentle for sleep] He was awakened by a showering of snow in his face. [soft pause] The door of the hut had been forced open. And by the snow-light, the yuki-akari, he saw a woman in the room. A woman all in white. [slow] She was bending above old Mosaku, and blowing her breath upon him. And her breath was like a bright white smoke.
+<|speaker:0|>[quieter, closer] Almost in the same moment she turned to Minokichi, and stooped over him. He tried to cry out, but found that he could not utter any sound. The white woman bent down over him, lower and lower, until her face almost touched him. [soft pause] And he saw that she was very beautiful, though her eyes made him afraid.
+<|speaker:1|>[bending lower, faceless, breath like faint smoke] [whispering] You are a pretty boy, Minokichi... [voice drops to a whisper] I will not hurt you now. But if you ever tell anybody, even your own mother, about what you have seen this night... [slowly] I shall know it. [whispering] And then I will kill you.
+<|speaker:0|>[slow, fading to stillness] With these words, she turned from him, and passed through the doorway, into the snow. [long pause] And Minokichi slept, and did not wake till dawn.
