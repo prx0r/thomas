@@ -18,7 +18,12 @@ Do not skip a stage.
      beats: sutta refs by standard numbering, verbatim quotes with provenance,
      verification status for each (verified local text, verified public
      translation, needs fetching). No uncited doctrinal claims survive this stage.
-   - `ESSAY.md` — the draft itself, in the author's voice, with citations.
+    - `ESSAY.md` — the draft itself, in the author's voice, with citations.
+      `ESSAY.md` is always the latest working draft. Each finished iteration is
+      also frozen as a numbered snapshot beside it — `<topic>essayai1.md`,
+      then `ai2`, `ai3` — mirroring the ramble names (`samsara1`,
+      `nibbana1`). Snapshots are never edited; new rounds write a new number
+      until the owner picks the one they like.
    - Dangerous errors flagged in review must be fixed in the draft, not
      carried over. Live scholarly seams (where sources disagree) stay visible,
      never smoothed over.
@@ -80,5 +85,79 @@ yeah i think also worth nothing like guidelines for all of iit and what each pro
 - Then the owner writes another essay and the agent corrects again. Continual
   process: ramble, mechanisms, ramble, mechanisms. Each round leaves the repo
   further along: new REVIEW.md, extended RESOURCES.md and shelves, new ESSAY.md.
+- After every essay snapshot, the agent writes PROCESS-ai<N>.md beside it:
+  what was kept from the ramble and why, which resources carried which beats,
+  what was deliberately NOT done and why, a references-vs-body honesty audit,
+  and the sharpening queue for the next round. No essay ships without its
+  process record.
+
+## Sculpting loop — essay, process, essay (with pushing)
+
+- The unit of work is a round, not a draft. Each round: write the essay
+  snapshot (`<topic>essayai<N>.md`), then document the process
+  (`PROCESS-ai<N>.md`), then write the next essay. Repeat until the essay is
+  sufficiently sculpted from the raw material of the ramble — the owner calls
+  the stop, never the agent.
+- Sculpting means removal and arrangement, not addition. Each round should
+  leave the piece shorter or denser, never padded. If a round cannot improve
+  on the last, say so and stop.
+- Every round applies the pushing method, adapted from the gochema pushing
+  work (`pushing-tantraloka`, Logicvid sessions) and the excavation skill's
+  three passes (extract, verify against source, hunt holes):
+  1. Verify against the sources — re-read the cited passages, check quotes
+     exact, check what the shelves hold that the essay did not use.
+  2. Push each essay claim with "why?" and answer only from the masters'
+     texts, never from the agent's own frameworks. Frameworks may supply the
+     questioning; the answers must come from the quoted sources.
+  3. Store the full passage where the answer came from (more than needed),
+     so the next round can re-read and re-push it.
+  4. Mark the frontier honestly in PROCESS — what the texts assert but do not
+     argue, what remains asserted-not-proven. Never smooth a frontier into a
+     conclusion.
+  5. Hunt holes — what the ramble or the shelves contain that the essay
+     ignored, and either use it next round or record why not.
+- The sharpening queue in PROCESS-ai<N>.md is the work order for ai<N+1>.
+  A round is done when its queue is written, not when the essay is perfect.
+
+## Pushing — adapted from the gochema pushing work
+
+- Source method: `pushing-tantraloka/` (35 Logicvid sessions hounding the
+  Tantraloka), `pushing-ipvv/` (10 sessions on Abhinavagupta's IPVV commentary,
+  run even closer to the text's own structure), `pushing/` method layer
+  (PUSHING_GUIDE, AUTONOMOUS_PUSHING_AGENT_SPEC). Full machinery lives there;
+  this repo takes only the portable habits below. Do not import the formal
+  apparatus (truth-packets, proof engine, claim-strength tags).
+- The one rule, unchanged: hound the text with "why" and force its OWN
+  reasoning out. Frameworks supply only the questioning; answers come from
+  the masters' texts. Each essay claim that leans on a source must be
+  pushable back to a quoted passage.
+- Question DNA for each round (adapt the shape, not the content): start from
+  the text's own primitive, not a modern term; interrogate words assumed
+  identical; find the quantifier/scope leap; push the load-bearing step's why;
+  name the hidden premise; play the strongest opponent head-on (the
+  relabelling accusation — poetic description is not mechanism); separate
+  what the text licenses from what it does not; end every penetration with
+  the next forced question, never a dead end.
+- Penetration marking: where a source asserts but does not prove, mark it in
+  PROCESS as frontier, not as conclusion. The essay may use the frontier only
+  flagged as such.
+- Destroy pass: before finishing any ESSAY.md, run one hostile re-read whose
+  only job is to break it — unsupported entailments, conflated levels,
+  translation dependence, passages that resist, rival readings. Repair only
+  what survives. Record the kills in PROCESS.
+- The destroy pass follows `skills/essay-sharpening/SKILL.md` (adapted from
+  the gochema pushing work — Logicvid sessions, PUSHING_GUIDE, agent spec —
+  without the formal apparatus). Sharpen metaphors to their logical ends;
+  grade claims proven/supported/plausible/asserted in PROCESS, never in prose.
+- Licensed-vs-unlicensed is the honesty check on every borrowed claim: state
+  what the passage licenses and what it does not, in the same breath.
+- Branch footer: end every essay with open branches plus the next forced
+  question, never a closed conclusion. A piece that terminates is a piece
+  that overclaimed.
+- Hypothesis phrasing for cross-tradition or cross-text claims: write
+  "hypothesis: X ≡ Y", never "X is Y". Similarity is a probe, not an identity.
+- No new primitive (a term like samsara, self, time used as if explained)
+  unless two or more independent passes force it. Keep ancestry on reused
+  terms: what is X (from Ñāṇavīra) vs (from Ñāṇananda) stays visibly sourced.
 - The agent works the queue autonomously once set. Owner interruptions
   redirect; otherwise keep moving piece to piece.

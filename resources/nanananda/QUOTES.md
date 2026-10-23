@@ -30,3 +30,11 @@ because of painful feeling." Use for: one-line sandcastle mechanism.
 preparations, the relinquishment of all assets, the destruction of craving,
 detachment, cessation, extinction." Use for: nibbana essays; the Direction
 the whirlpool exits by.
+
+## NN5. Field, seed, moisture — Sermon 4 (voice line)
+
+"Kamma is the field, consciousness is the seed, craving is the moisture."
+Verified: box file nibbana-10-passes.md (S04 voice). Use for: germination
+mapping — soil is the field, seeds are consciousness bent toward footing,
+watering is present craving. Cross-essay key: garden (nibbana), rebirth
+(seeds that sprout given all three).

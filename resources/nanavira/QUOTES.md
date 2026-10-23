@@ -36,3 +36,14 @@ That is why the Dhamma is patisotagami, 'going against the stream', it gives
 the outside view inherently unobtainable by unaided reflexion." Use for:
 centerpiece; graft-as-method. The three views it cites: with self I perceive
 self; with self I perceive not-self; with not-self I perceive self.
+
+## To read (directly bears on N4 — do not cite until read)
+
+- Pushing-IPVV session `IPVV-reflexion-vs-nanavira.md` (gochema box): runs
+  the IPVV reflexion core (V1M/V2L/V2C) against Nanavira's structural
+  reflexivity. Reported gem: the "I"-grasp (aham-pratyavimarsa) is "not a
+  construction" — construction joins/splits, the "I" is neither; it is the
+  self-grasp the folding presupposes. If it holds, it answers Nanavira's own
+  warning that structural folding was converted into a universal Self — and
+  it cuts both ways for the essay's judge-and-accused beat. Read the session
+  before ai2 touches that beat.

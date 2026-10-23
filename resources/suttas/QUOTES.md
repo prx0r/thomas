@@ -47,3 +47,24 @@ Verified: standard rendering. Use for: why the outside view grates.
   Buddhist Practice" (free PDF; per gochema HANDOVER it sits in this box's
   library — locate exact path and verify before quoting). For the
   prior-assumption-as-working-hypothesis framing.
+
+## S7. Sustenance between bodies — SN 44.9 (Vacchagotta-fire, Thanissaro ATI)
+
+"When a being sets this body aside and is not yet reborn in another body,
+I designate it as craving-sustained, for craving is its sustenance at that
+time." Verified: box file `gochema/essays/rebirth-explained/quotes/`
+(gochema peer-review v1.2). Fuel, not passenger.
+
+## S8. Conception needs three; consciousness does not transmigrate — MN 38
+(Mahatanhasankhaya, Thanissaro ATI)
+
+"The descent of the embryo occurs with the union of three things... mother
+& father... her season... a gandhabba is present." Same sutta corrects
+Sati: no "same consciousness" runs and wanders. Verified: box file.
+
+## S9. Two sheaves of reeds — SN 12.67
+
+"It's as if two sheaves of reeds were to stand leaning against one another...
+If one were to pull away one of those sheaves, the other would fall."
+Verified: standard text (gochema ESSAY v1.2 quotes it; re-verify wording
+from an EN mirror before video).

@@ -1,0 +1,242 @@
+# What actually is samsara? — ai2
+
+## The exam
+
+How do you currently feel about samsara? Lock in your best current idea and
+register how sure you feel. Now take the honest position: I do not claim to
+know what samsara is. Imagine this is an exam and you had to write something.
+What are you writing? Pause. Now you have thought about it — are you more or
+less sure you know what it is? Likely less, which is good. Thinking you know
+something is the main blocker to actually knowing something. Not truly
+understanding it, holding ideas that feel familiar enough to be acceptable,
+is more dangerous than knowing you know less.
+
+## Where questions come from
+
+We could ask for the right answer, but the real process is revaluating every
+held belief the new information conflicts with. When a conflict arises, a
+question emerges. A question is the child of two conflicting viewpoints. Why
+is the sky blue? You do not see the previous process that birthed it: the sky
+is blue, there is no obvious reason the sky is blue, thus the great why
+emerges as the solvent for all confusion. Where would we be without why? You
+could be like Patrick Star and have no questions, because you have not found
+your own lack of understanding. Let us make that clear: you do not see your
+own lack of understanding. This is the whole foundation, and the impossible
+thing to grasp.
+
+## The predicament
+
+So this is the situation you and I are in: a human being with perception,
+apparently wandering in samsara. If that is true, why don't I see this
+samsara? If I honestly asked you right now, are you in samsara — yes, no, or
+I don't know? Pick one. I picked I don't know when first asked, but now I
+would say yes. If you said yes, you get a gold star; no, a gold star;
+I don't know — this is literally what samsara is, the state of confusion.
+
+## The working definition, then its correction
+
+Here is the current definition: the condition of a being in which they do
+not see clearly the state of things as they are. Not seeing the way things
+are is to be confused or, as the Buddha harshly yet compassionately puts it,
+wrong view. Imagine you went into space and saw the earth was a sphere and
+not flat. You would class flat earth as the wrong view, even if many people
+believed it. So would you call a flat earther confused, delusional, or
+holding the wrong view? Or maybe even correct, in which case I have more bad
+news for you.
+
+Keep that image for one beat, because it fails in exactly the instructive
+way. A flat earther can be shown a photo. Your ignorance cannot be shown to
+you that way, because the instrument doing the looking is what is broken.
+And one plus one equals two is the wrong image of right view. Right view is
+not knowing the correct sum; as the correction runs through this whole
+piece: wrong view is taking an appropriated process personally in the act of
+perceiving, and right view is seeing conditionality stop the appropriation
+in that moment.
+
+Samsara is the state most people are in: confused about the nature of
+themselves and existence, holding the wrong view. But this is the illusion.
+How do I know if I hold the wrong view? You don't — not by looking straight
+at it. Here is Ñāṇavīra's first use, and it belongs here, not later: "The
+puthujjana takes what appears to be his 'self' at its face value; and so
+long as this goes on he continues to be a 'self', at least in his own eyes
+(and in those of others like him). This is bhava or 'being.'" In plain
+terms: the looking-for happens inside the same taking-for-granted that is
+being looked for. Of course you do not find it. Quite right — because as a
+findable thing, it is not there.
+
+## The maze, and what it is made of
+
+It is like waking up in a maze and seeing everyone you know and love also in
+that maze without being aware they are in a maze. The maze is the going
+round itself — and the tradition gives the maze its mechanics in one image:
+with the help of the simile of a whirlpool, samsara on the one hand, and
+Nibbana on the other, that is to say 'going round', or samsarana, and 'going
+out', or nissarana. In plain terms: the same water either keeps circling or
+finds the way out. Your maze has walls made of circling. Pain arrives, the
+current pushes against it, the push becomes a whirl, and the whirl calls
+itself lost.
+
+Which puts anyone who says this in a terrible position. You are in the maze
+with people you love, who seem happy enough, yet you come along and proclaim
+they are confused about the entire nature of who they are and what is going
+on. Doing so undermines the very way one copes with reality, supports loved
+ones and relates to other people. People need to survive first. The hunger
+does not stop at food and security. Nicer food, nicer house, the development
+of the psyche as a strategy to ensure you do not lose those things — over
+time you build structures on top of ignorance that you depend on in order to
+get what you want. So you need that fundamental ignorance to sustain your
+survival, otherwise it would all crumble, like a sandcastle. And it cannot
+crumble like a sandcastle because your children need that sandcastle to live,
+so you maintain. Toiling in samsara.
+
+Two corrections, both load-bearing. First, what would crumble is ownership
+and compulsive maintenance, not food, shelter and love. For the worthy ones,
+the texts say plainly, it is simply the nature of this body to break up and
+be laid down — care continues, grasping does not. Second, Dhamma is not
+reserved for the fed. The first truth is most visible exactly where pressure
+is greatest.
+
+Luckily, as humans we forget incredibly easily. So we forget our fundamental
+ignorance and focus on enjoying what is in front of us. We can just enjoy
+the movie. But now our relationship to this fundamental ignorance becomes
+one of rejection. It is pushed out of vision, necessarily, because the true
+nature of reality cannot be seen — it would undermine everything your life
+and perception is built upon.
+
+## What the texts actually say
+
+Textually, samsara is sam plus sarati, wandering on. The stock formula in
+the Anamatagga Samyutta (SN 15.1): "This samsara is without discoverable
+beginning. A first point is not discerned of beings roaming and wandering on
+hindered by ignorance and fettered by craving." Ignorance textually is not
+stupidity. It is specified in the Sammaditthi Sutta (MN 9) and the Vibhanga
+(SN 12.2): not knowing about suffering, not knowing about the origin of
+suffering, not knowing about the cessation of suffering, not knowing about
+the way leading to the cessation of suffering — this is called ignorance.
+
+Now ask, surely there is a first point of ignorance — what is its cause?
+Ñāṇavīra answers: "Paticcasamuppada depends upon non-seeing of
+paticcasamuppada... Avijja depends upon avijja... though it is impermanent
+and constructed, avijja is so stable." In plain terms: not-seeing is itself
+a determination, a thing other things stand on, so not-seeing stands on
+not-seeing. That is why it is so stable though nothing in it lasts, and why
+there is no first point to find. Therefore to see Dhamma is to see dependent
+arising, so ignorance is non-seeing of dependent arising.
+
+Unpack that: ignorance equals not seeing, active not-seeing of reality as it
+is, which is impossible to catch because you assume you are seeing reality
+as it is right now. The hard crux is this: your not-seeing of true reality
+right now is maintained by your not-seeing of true reality right now. It is
+obvious in hindsight — your not-seeing ends when you see. So how do you see?
+This is the subtle point. Ñāṇavīra again: "However much a man may step back
+from himself to observe himself he cannot help taking avijja with him. There
+is just as much avijja in the self-observer as there is in the self-observed...
+In reflexion avijja is the Judge as well as the Accused, and the verdict is
+always 'Not Guilty'." In plain terms: the very instrument used to discern
+the truth is flawed. Stepping back does not step outside; it takes the flaw
+along and acquits itself.
+
+## Plastic, gold, and the mirror
+
+Imagine a faulty metal detector at the beach that has never actually
+detected metal but instead made noise for plastic. You would say, this is
+metal — picture of a plastic tub — everyone agrees, look, our metal detector
+says so. Then someone says, no, actually this is metal. You think the
+plastic tub is metal, and because of this false first idea you make many
+further mistakes. You yourself are not doing anything wrong; the detector
+says the tub is metal, so that is what metal is. It is only when someone
+puts a gold bar in your hand — is that metal? — that you start to question
+your plastic tub. You realise, oh, this is metal. Now I can see what I
+thought was metal was plastic. So someone must introduce you to metal in
+order for you to know the difference. Now imagine you are so sure of what
+you are detecting that you laugh at the bare notion it could be anything
+other.
+
+That is why the Dhamma is called going against the stream (patisotagami):
+it gives the outside view inherently unobtainable by unaided reflexion. In
+plain terms: it is a mirror lent from outside, a description that
+contradicts your direct evidence, held on trust until your own experience
+can read itself through it. Essentially, it provides a mirror for ignorance
+to be seen.
+
+Now imagine if you see reality truly, you can then say, ok, so what I was
+seeing before wasn't true. Yet how do you explain it? It is like trying to
+explain confusion. What is the cause of confusion? To be in a state of not
+seeing clearly. Thus the solution is to see clearly. The blocker is the
+fundamental not-knowing of one's own confusion. The enabler is the tiny
+opening caused when one says: are you sure that's true?
+
+Here the enabler stops being an attitude and becomes a practice. Struck by
+feeling, the uninstructed adds sorrow and resistance — two pains for one
+strike. The instructed feels the first and not the second. That is the
+Sallatha image (SN 36.6), and it is the checkable form of the opening: next
+contact with pain, feel the first arrow all the way, and watch whether the
+second gets fired. If it doesn't, you have tasted the mirror working —
+not as an idea about metal, but as metal in the hand.
+
+Wrong view is taking an appropriated process personally in the act of
+perceiving, and right view is seeing conditionality stop the appropriation
+in that moment. What is the cause of detecting plastic as metal? The
+detector makes a noise when it sees a plastic tub. You have never seen metal
+so you cannot discern it from plastic. The very seeing of metal itself
+transforms your wrong view of what metal is. Now you realise what you were
+seeing before was plastic — this is metal. Now you see that your metal
+detector is broken. If someone told you that before you realised it for
+yourself, you might fight them. As Ñāṇavīra has it: "When it is seen truly
+it is seen as never having been a thing, only a mis-taking, and seeing
+removes its condition." In plain terms: what you took for a solid confusion
+was never a thing at all, only a mis-take, and the seeing is what removes
+it. Thus one is in a state of ignorance without knowing, investigates and
+realises one's own ignorance and sees the nature of ignorance, which is
+fundamentally to see the way things actually are — because when you see the
+way things actually are, in hindsight you realise you were seeing wrong
+before. An impossible conclusion to come to without seeing correctly.
+
+## The whirlpool underneath, stated once
+
+The maze above is the whirlpool stated plainly. "Monks, abyss is a synonym
+for painful bodily feelings." When the uninstructed worldling is contacted
+by a painful bodily feeling, he sorrows, grieves, and laments. "The thirst
+of craving arises in beings in various forms of existence because of painful
+feeling" — and the worldling delights in sense pleasures knowing no other
+way out of painful feeling than the sense pleasures. Wandering is not
+abstract. It is this: pain, no exit seen, delight as exit, thirst as engine.
+
+## The honesty the essay owes you
+
+Felt certainty is not the test. Remembering rebuilds under present attitude;
+false memories feel exactly as real as true ones; past-life regression may
+heal as therapy and prove nothing as evidence. What moves this from creed to
+reasonable belief is checkable detail — and the part you can verify tonight:
+contact comes, tone leans pleasant or painful, grasping either fires or,
+watched, weakens. Right view in its workable form is exactly that checking,
+not a proposition believed. And the continuity the texts insist on stays
+open as they state it: rebirth as integral, with no soul-thing carried over,
+process only. Neither affirmed on faith nor denied to close inquiry.
+
+So I ask again: what actually is samsara? In order to answer, don't you need
+to know what isn't samsara? So perhaps a better question is: have you seen
+nibbana?
+
+## References
+
+- S1 — SN 15.1, Anamatagga Samyutta: beginninglessness formula.
+- S2 — MN 9 (Sammaditthi), SN 12.2 §15, SN 35.80: fourfold not-knowing as ignorance.
+- F12 — SN 36.6 (Sallatha): one arrow vs two; feeling without the second arrow.
+- N1 — Ñāṇavīra, A Note on Paticcasamuppada §7: seeing Dhamma is seeing
+  conditionality, immediately visible, without involving time.
+- N2 — Ñāṇavīra §10 (used twice: invisibility beat, maze mechanism):
+  taking self at face value continues being; arahant thinks neither I am
+  nor I was born; re-birth bracketed as irrelevant to the structural seeing.
+- N3 — Ñāṇavira §§23-24: conditionality depends on non-seeing of
+  conditionality; ignorance conditions ignorance.
+- N4 — Ñāṇavīra §25: judge and accused; stepping back takes ignorance along;
+  going against the stream as lent outside view.
+- NN1 — Ñāṇananda, Sermon 3: going round versus going out (whirlpool).
+- NN2 — Ñāṇananda, Sermon 3: abyss as painful bodily feeling.
+- NN3 — Ñāṇananda, Sermon 3: thirst of craving from painful feeling.
+- A1 — Anālayo, Rebirth, Conclusion: integral component, no entity carried.
+- A2 — Anālayo, Rebirth, Conclusion + Ch. III: creed to reasonable belief;
+  open stance required, flat denial forbidden; four truths as workable view.
+- A3 — Anālayo, Rebirth, Ch. III.2: memory as reconstruction; felt real is
+  not verified real.
