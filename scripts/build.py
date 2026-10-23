@@ -63,7 +63,7 @@ def render(blocks, voice):
             lines.append("")
             lines.append("[pause, section change]")
             lines.append("")
-            lines.append(text.rstrip(".") + ".")
+            lines.append(text)   # heading spoken exactly as written — no punctuation added
             first = True
             continue
         if first:

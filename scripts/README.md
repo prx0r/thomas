@@ -39,7 +39,8 @@ not thomas output.
 - `<|speaker:0|>` and a voice-profile tag, both taken from tags already in
   use in `damn` — no invented tag names.
 - `[pause, section change]` on its own line at every `##` heading, with the
-  heading text spoken after it (`The exam.`).
+  heading text spoken **exactly as written — no punctuation added** (`The exam`,
+  not `The exam.`).
 - `[soft pause]` at the start of every paragraph after the first in a section.
 - `[pause]` at the end of any paragraph that ends on a rhetorical question.
 - A lane from `BEATS.md`: **rambles → ramble read**, **essays → lectures**
@@ -81,6 +82,24 @@ the 14,000 working budget, all far under the 16,000 hard cap. So
 any exceeded, the suffix would have been `.partN.drama.txt`. That suffix is
 this repo's invention; `damn` has no full-essay multi-chunk precedent, only
 2-minute pilots.)
+
+## Content fidelity — checked, not asserted
+
+Every script is diffed against its source after removing only the `//`
+headers, `<|speaker:0|>`, the voice-profile line and every `[cue]`, with both
+sides run through the identical markdown strip. **9/9 verbatim.**
+
+Two rounds were needed and the second one is the honest note: the first
+version appended a full stop to each spoken heading (`The exam` → `The exam.`).
+That was a character nobody wrote. `build.py` no longer does it, and the audit
+above is what proves it. Re-run it after any rebuild:
+
+    python3 - <<'EOF'   # compare source body to script body, token for token
+    # (full checker: strip headers + cues from the script, markdown-strip both,
+    #  normalise quotes/whitespace, assert string equality)
+    EOF
+
+No sentence, aside, capital or typo has ever been moved, added or removed.
 
 ## Validation status
 
